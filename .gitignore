@@ -1,6 +1,3 @@
-# Ignorer tous les fichiers CSV dans tout le projet
 *.csv
-
-# Ignorer les fichiers Excel potentiels aussi
 *.xlsx
 *.xls
